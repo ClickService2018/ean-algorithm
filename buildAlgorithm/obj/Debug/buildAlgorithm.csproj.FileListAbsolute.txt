@@ -1,0 +1,7 @@
+C:\Users\rculi\source\repos\buildAlgorithm\buildAlgorithm\bin\Debug\buildAlgorithm.exe.config
+C:\Users\rculi\source\repos\buildAlgorithm\buildAlgorithm\bin\Debug\buildAlgorithm.exe
+C:\Users\rculi\source\repos\buildAlgorithm\buildAlgorithm\bin\Debug\buildAlgorithm.pdb
+C:\Users\rculi\source\repos\buildAlgorithm\buildAlgorithm\obj\Debug\buildAlgorithm.csprojAssemblyReference.cache
+C:\Users\rculi\source\repos\buildAlgorithm\buildAlgorithm\obj\Debug\buildAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\rculi\source\repos\buildAlgorithm\buildAlgorithm\obj\Debug\buildAlgorithm.exe
+C:\Users\rculi\source\repos\buildAlgorithm\buildAlgorithm\obj\Debug\buildAlgorithm.pdb
